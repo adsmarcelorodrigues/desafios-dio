@@ -1,0 +1,2 @@
+Anotações dos aprendizados.
+Gitbash é um terminal extentido para otimizar o uso do git.
