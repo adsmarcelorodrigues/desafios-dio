@@ -1,2 +1,9 @@
-Anotações dos aprendizados.
-Gitbash é um terminal extentido para otimizar o uso do git.
+Copia link e usa git clone com gitbash here para clonar.
+
+git status untracked
+
+enviar para o github.
+
+1: git add. / git add -a
+2: git commit -m "Mensagem referente ao que está sendo enviado"
+3: git push origin main
